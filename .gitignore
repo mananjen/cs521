@@ -9,10 +9,14 @@ __pycache__/
 # support files for Jupyter Notebook
 chat.ipynb
 consolidate.ipynb
+glove-hi.300d.txt
+glove.6B.300d.txt
+lid.176.bin
 
 # saved models
 sarcasm_hingbert_model/
 results/
+baseline_models/
 
 # Distribution / packaging
 .Python
